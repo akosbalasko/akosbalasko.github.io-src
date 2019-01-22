@@ -1,0 +1,13 @@
+# Site navigation links
+
+- title: Versek
+  url: /poems
+- title: Kötetek
+  url: /books
+- title: Projektek
+  url: /projects/
+- title: Interjúk
+  url: /interviews
+- title: Kritikák
+  url: /critics
+
