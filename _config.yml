@@ -8,7 +8,7 @@ logo:               'assets/img/akos_selfi.png'
 background:         'assets/img/tush_crop_2.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                https://balaskoakos.hu/
+url:                https://www.balaskoakos.hu/
 
 # Jekyll
 permalink:          /:title/
